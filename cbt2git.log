@@ -1,0 +1,177 @@
+2023-08-06 02:41:31.924951 - Initialized conversion of CBT283
+2023-08-06 02:41:32.762779 - Received CBT.V505.FILE283.PDS from FILE283.XMI 
+2023-08-06 02:41:32.765322 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:41:32.766614 - Found @FILE283.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/@FILE283
+2023-08-06 02:41:32.767676 - Found AD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/AD
+2023-08-06 02:41:32.767685 - Found AP.bin containing application/octet-stream, moved to PDS/AP
+2023-08-06 02:41:32.769760 - Found APDIXCTL.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/APDIXCTL
+2023-08-06 02:41:32.770687 - Found APENDIXA.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXA
+2023-08-06 02:41:32.771628 - Found APENDIXB.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXB
+2023-08-06 02:41:32.772526 - Found APENDIXC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXC
+2023-08-06 02:41:32.773607 - Found APENDIXD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXD
+2023-08-06 02:41:32.774627 - Found APENDIXE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXE
+2023-08-06 02:41:32.774637 - Found APENDIXF.bin containing application/octet-stream, moved to PDS/APENDIXF
+2023-08-06 02:41:32.776596 - Found APENDIXG.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXG
+2023-08-06 02:41:32.776605 - Found APENDIXH.bin containing application/octet-stream, moved to PDS/APENDIXH
+2023-08-06 02:41:32.778531 - Found APENDIXI.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXI
+2023-08-06 02:41:32.779492 - Found APENDIXX.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/APENDIXX
+2023-08-06 02:41:32.779502 - Found AR.bin containing application/octet-stream, moved to PDS/AR
+2023-08-06 02:41:32.781314 - Found BC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/BC
+2023-08-06 02:41:32.781324 - Found BLANKPG.bin containing application/octet-stream, moved to PDS/BLANKPG
+2023-08-06 02:41:32.782310 - Found BM.bin containing application/octet-stream, moved to PDS/BM
+2023-08-06 02:41:32.784278 - Found BR.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/BR
+2023-08-06 02:41:32.785205 - Found BS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/BS
+2023-08-06 02:41:32.785215 - Found BT.bin containing application/octet-stream, moved to PDS/BT
+2023-08-06 02:41:32.787110 - Found BX.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/BX
+2023-08-06 02:41:32.788029 - Found CB.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/CB
+2023-08-06 02:41:32.788883 - Found CC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CC
+2023-08-06 02:41:32.789772 - Found CD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CD
+2023-08-06 02:41:32.790623 - Found CE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CE
+2023-08-06 02:41:32.791570 - Found CL.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CL
+2023-08-06 02:41:32.792505 - Found CM.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CM
+2023-08-06 02:41:32.792513 - Found CMSSCR.bin containing application/octet-stream, moved to PDS/CMSSCR
+2023-08-06 02:41:32.793409 - Found CO.bin containing application/octet-stream, moved to PDS/CO
+2023-08-06 02:41:32.795325 - Found CONTENTS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CONTENTS
+2023-08-06 02:41:32.796242 - Found CORRTRAN.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CORRTRAN
+2023-08-06 02:41:32.796250 - Found CP.bin containing application/octet-stream, moved to PDS/CP
+2023-08-06 02:41:32.798090 - Found CR.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CR
+2023-08-06 02:41:32.799037 - Found CRINPUT.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CRINPUT
+2023-08-06 02:41:32.799046 - Found CS.bin containing application/octet-stream, moved to PDS/CS
+2023-08-06 02:41:32.800798 - Found CW.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/CW
+2023-08-06 02:41:32.801753 - Found DA.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/DA
+2023-08-06 02:41:32.802634 - Found DC.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/DC
+2023-08-06 02:41:32.803500 - Found DH.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/DH
+2023-08-06 02:41:32.803508 - Found DM.bin containing application/octet-stream, moved to PDS/DM
+2023-08-06 02:41:32.804381 - Found DO.bin containing application/octet-stream, moved to PDS/DO
+2023-08-06 02:41:32.806123 - Found DS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/DS
+2023-08-06 02:41:32.806132 - Found EB.bin containing application/octet-stream, moved to PDS/EB
+2023-08-06 02:41:32.807973 - Found EF.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/EF
+2023-08-06 02:41:32.808842 - Found EL.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/EL
+2023-08-06 02:41:32.808849 - Found EM.bin containing application/octet-stream, moved to PDS/EM
+2023-08-06 02:41:32.809682 - Found EN.bin containing application/octet-stream, moved to PDS/EN
+2023-08-06 02:41:32.811428 - Found EP.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/EP
+2023-08-06 02:41:32.812304 - Found ER.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/ER
+2023-08-06 02:41:32.812312 - Found ERRORS.bin containing application/octet-stream, moved to PDS/ERRORS
+2023-08-06 02:41:32.813211 - Found ET.bin containing application/octet-stream, moved to PDS/ET
+2023-08-06 02:41:32.815023 - Found EZ.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/EZ
+2023-08-06 02:41:32.815033 - Found FB.bin containing application/octet-stream, moved to PDS/FB
+2023-08-06 02:41:32.816754 - Found FCLIST.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/FCLIST
+2023-08-06 02:41:32.817594 - Found FD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/FD
+2023-08-06 02:41:32.818543 - Found FE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/FE
+2023-08-06 02:41:32.818556 - Found FK.bin containing application/octet-stream, moved to PDS/FK
+2023-08-06 02:41:32.819441 - Found FM.bin containing application/octet-stream, moved to PDS/FM
+2023-08-06 02:41:32.820383 - Found FN.bin containing application/octet-stream, moved to PDS/FN
+2023-08-06 02:41:32.821284 - Found FO.bin containing application/octet-stream, moved to PDS/FO
+2023-08-06 02:41:32.822230 - Found FS.bin containing application/octet-stream, moved to PDS/FS
+2023-08-06 02:41:32.824138 - Found FV.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/FV
+2023-08-06 02:41:32.825076 - Found GO.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/GO
+2023-08-06 02:41:32.825979 - Found HD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HD
+2023-08-06 02:41:32.825988 - Found HE.bin containing application/octet-stream, moved to PDS/HE
+2023-08-06 02:41:32.827891 - Found HEADER.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/HEADER
+2023-08-06 02:41:32.828835 - Found HI.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HI
+2023-08-06 02:41:32.829722 - Found HL.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HL
+2023-08-06 02:41:32.829733 - Found HM.bin containing application/octet-stream, moved to PDS/HM
+2023-08-06 02:41:32.831571 - Found HN.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HN
+2023-08-06 02:41:32.831581 - Found HS.bin containing application/octet-stream, moved to PDS/HS
+2023-08-06 02:41:32.833249 - Found HV.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HV
+2023-08-06 02:41:32.834167 - Found HW.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/HW
+2023-08-06 02:41:32.834176 - Found HY.bin containing application/octet-stream, moved to PDS/HY
+2023-08-06 02:41:32.836030 - Found H0.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/H0
+2023-08-06 02:41:32.836847 - Found IF.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/IF
+2023-08-06 02:41:32.837766 - Found IL.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/IL
+2023-08-06 02:41:32.838693 - Found IM.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/IM
+2023-08-06 02:41:32.839631 - Found IN.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/IN
+2023-08-06 02:41:32.839640 - Found IX.bin containing application/octet-stream, moved to PDS/IX
+2023-08-06 02:41:32.840464 - Found JU.bin containing application/octet-stream, moved to PDS/JU
+2023-08-06 02:41:32.842241 - Found LA.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/LA
+2023-08-06 02:41:32.842249 - Found LB.bin containing application/octet-stream, moved to PDS/LB
+2023-08-06 02:41:32.843146 - Found LE.bin containing application/octet-stream, moved to PDS/LE
+2023-08-06 02:41:32.844820 - Found LI.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/LI
+2023-08-06 02:41:32.844832 - Found LL.bin containing application/octet-stream, moved to PDS/LL
+2023-08-06 02:41:32.846632 - Found LN.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/LN
+2023-08-06 02:41:32.846641 - Found LS.bin containing application/octet-stream, moved to PDS/LS
+2023-08-06 02:41:32.848325 - Found MC.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/MC
+2023-08-06 02:41:32.849166 - Found MS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/MS
+2023-08-06 02:41:32.850100 - Found NC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/NC
+2023-08-06 02:41:32.850957 - Found NF.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/NF
+2023-08-06 02:41:32.851887 - Found NJ.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/NJ
+2023-08-06 02:41:32.851896 - Found NL.bin containing application/octet-stream, moved to PDS/NL
+2023-08-06 02:41:32.853678 - Found NSCRFC1.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/NSCRFC1
+2023-08-06 02:41:32.853687 - Found OB.bin containing application/octet-stream, moved to PDS/OB
+2023-08-06 02:41:32.855409 - Found OC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/OC
+2023-08-06 02:41:32.855419 - Found OF.bin containing application/octet-stream, moved to PDS/OF
+2023-08-06 02:41:32.857112 - Found OFFSCR.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/OFFSCR
+2023-08-06 02:41:32.858044 - Found OJ.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/OJ
+2023-08-06 02:41:32.858983 - Found ONTERM.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/ONTERM
+2023-08-06 02:41:32.859837 - Found OO.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/OO
+2023-08-06 02:41:32.860626 - Found OP.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/OP
+2023-08-06 02:41:32.860638 - Found OPTIONS.bin containing application/octet-stream, moved to PDS/OPTIONS
+2023-08-06 02:41:32.861622 - Found OT.bin containing application/octet-stream, moved to PDS/OT
+2023-08-06 02:41:32.863561 - Found OV.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/OV
+2023-08-06 02:41:32.863571 - Found PA.bin containing application/octet-stream, moved to PDS/PA
+2023-08-06 02:41:32.865252 - Found PD.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/PD
+2023-08-06 02:41:32.866200 - Found PE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PE
+2023-08-06 02:41:32.867177 - Found PI.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PI
+2023-08-06 02:41:32.867186 - Found PL.bin containing application/octet-stream, moved to PDS/PL
+2023-08-06 02:41:32.868033 - Found PN.bin containing application/octet-stream, moved to PDS/PN
+2023-08-06 02:41:32.869698 - Found PP.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PP
+2023-08-06 02:41:32.870598 - Found PR.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/PR
+2023-08-06 02:41:32.871567 - Found PREFACE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PREFACE
+2023-08-06 02:41:32.872441 - Found PS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PS
+2023-08-06 02:41:32.873387 - Found PT.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PT
+2023-08-06 02:41:32.873394 - Found PU.bin containing application/octet-stream, moved to PDS/PU
+2023-08-06 02:41:32.875082 - Found PURPOSE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/PURPOSE
+2023-08-06 02:41:32.875907 - Found PV.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/PV
+2023-08-06 02:41:32.876746 - Found QQ.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/QQ
+2023-08-06 02:41:32.877680 - Found QU.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/QU
+2023-08-06 02:41:32.878639 - Found RA.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/RA
+2023-08-06 02:41:32.879487 - Found RC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/RC
+2023-08-06 02:41:32.879497 - Found RD.bin containing application/octet-stream, moved to PDS/RD
+2023-08-06 02:41:32.881229 - Found RE.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/RE
+2023-08-06 02:41:32.882224 - Found REF$.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/REF$
+2023-08-06 02:41:32.883151 - Found REFALPH.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/REFALPH
+2023-08-06 02:41:32.884111 - Found REFERENC.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/REFERENC
+2023-08-06 02:41:32.884121 - Found REFINTRO.bin containing application/octet-stream, moved to PDS/REFINTRO
+2023-08-06 02:41:32.885023 - Found RM.bin containing application/octet-stream, moved to PDS/RM
+2023-08-06 02:41:32.885955 - Found RO.bin containing application/octet-stream, moved to PDS/RO
+2023-08-06 02:41:32.887657 - Found RV.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/RV
+2023-08-06 02:41:32.888465 - Found SA.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SA
+2023-08-06 02:41:32.889304 - Found SC.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SC
+2023-08-06 02:41:32.890209 - Found SCRDOC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SCRDOC
+2023-08-06 02:41:32.891121 - Found SCRINTRO.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SCRINTRO
+2023-08-06 02:41:32.892040 - Found SCRIPT.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SCRIPT
+2023-08-06 02:41:32.892877 - Found SCRIPTCD.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SCRIPTCD
+2023-08-06 02:41:32.893825 - Found SCRIPTNI.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SCRIPTNI
+2023-08-06 02:41:32.894704 - Found SCRIPTUP.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SCRIPTUP
+2023-08-06 02:41:32.895502 - Found SE.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SE
+2023-08-06 02:41:32.896327 - Found SETADD.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SETADD
+2023-08-06 02:41:32.897177 - Found SI.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SI
+2023-08-06 02:41:32.897188 - Found SK.bin containing application/octet-stream, moved to PDS/SK
+2023-08-06 02:41:32.899050 - Found SP.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SP
+2023-08-06 02:41:32.900038 - Found SR.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SR
+2023-08-06 02:41:32.900980 - Found SS.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SS
+2023-08-06 02:41:32.901918 - Found SU.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SU
+2023-08-06 02:41:32.902785 - Found SUPER.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SUPER
+2023-08-06 02:41:32.903601 - Found SUPERT.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SUPERT
+2023-08-06 02:41:32.904403 - Found SY.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/SY
+2023-08-06 02:41:32.905350 - Found SYSEZ.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SYSEZ
+2023-08-06 02:41:32.906323 - Found SYSPUB.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SYSPUB
+2023-08-06 02:41:32.907243 - Found SYSPUBMN.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/SYSPUBMN
+2023-08-06 02:41:32.908072 - Found TB.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/TB
+2023-08-06 02:41:32.908886 - Found TC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/TC
+2023-08-06 02:41:32.908895 - Found TE.bin containing application/octet-stream, moved to PDS/TE
+2023-08-06 02:41:32.910793 - Found TH.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/TH
+2023-08-06 02:41:32.910802 - Found TI.bin containing application/octet-stream, moved to PDS/TI
+2023-08-06 02:41:32.911721 - Found TM.bin containing application/octet-stream, moved to PDS/TM
+2023-08-06 02:41:32.913504 - Found TR.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/TR
+2023-08-06 02:41:32.914455 - Found TSOSCR.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/TSOSCR
+2023-08-06 02:41:32.914463 - Found TT.bin containing application/octet-stream, moved to PDS/TT
+2023-08-06 02:41:32.916366 - Found TY.txt (text/plain) in CBT.V505.FILE283.PDS, moved to PDS/TY
+2023-08-06 02:41:32.917296 - Found UC.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/UC
+2023-08-06 02:41:32.918180 - Found UD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/UD
+2023-08-06 02:41:32.919120 - Found UL.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/UL
+2023-08-06 02:41:32.920079 - Found UN.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/UN
+2023-08-06 02:41:32.921017 - Found UP.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/UP
+2023-08-06 02:41:32.921029 - Found UR.bin containing application/octet-stream, moved to PDS/UR
+2023-08-06 02:41:32.922857 - Found US.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/US
+2023-08-06 02:41:32.923799 - Found WD.troff (text/troff) in CBT.V505.FILE283.PDS, moved to PDS/WD
